@@ -9,12 +9,12 @@ fields:
   title:
     label: Title
     type:  text
-    width: 3/4
+    width: 2/4
 
-  year:
-    label: Year
+  meta:
+    label: Meta
     type:  text
-    width: 1/4
+    width: 2/4
 
   text:
     label: Text

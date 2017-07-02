@@ -1,8 +1,8 @@
-Title: Ipsum
+Title: Lorem
 
 ----
 
-Year: 2013
+Meta: Künstlerin, Graffiti
 
 ----
 
