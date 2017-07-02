@@ -1,0 +1,25 @@
+Title: Anfahrt
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+<h2 style="color: #1ab2c8">Autoweg</h2>
+
+➡ Licherstraße raus, vorbei an MUK und Europaviertel
+
+➡ Ausfahrt »Hausen – Garbenteich« rechts raus
+
+➡ Am Kreisverkehr die erste rechts
+
+➡ Nächste rechts auf den asphaltierten Feldweg.
+
+<h2 style="color: #e19045">Radweg</h2>
+
+➡ Licherstraße raus, vorbei an MUK und Europaviertel
+
+➡ Kurz nach dem Ende des Waldes die Landstraße kreutzen und weiter auf dem asphaltierten Feldweg.
