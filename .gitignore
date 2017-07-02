@@ -20,7 +20,7 @@ Icon
 # Kirby accounts
 # ---------------
 
-/site/accounts/*
+#/site/accounts/*
 !/site/accounts/index.html
 
 # Avatars
