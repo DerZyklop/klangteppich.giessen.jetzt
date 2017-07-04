@@ -2,8 +2,8 @@
 
 username: michel
 password: >
-  $2a$10$5pBbScu09C/LuHuJ/1GzV.Nj4LlosQzBJkPbpwWMDA1l2E7CH5rkG
-email: mail@der-zyklop.de
+  $2a$10$CsnpQc2b0ZOjq8XFappTs.ZFtNwo2.xzywaKV1ARFn8LpCUPnrlTG
+email: ""
 language: de
 role: admin
 history:

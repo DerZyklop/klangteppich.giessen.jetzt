@@ -2,11 +2,11 @@ Title: Home
 
 ----
 
-Intro: Yay! If you are seeing this, the installation of Kirby worked. :-)
+Intro: 
 
 ----
 
-Text:
+Text: 
 
 ## Hallo Welt
 
