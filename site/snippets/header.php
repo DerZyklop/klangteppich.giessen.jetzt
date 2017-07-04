@@ -13,7 +13,7 @@
   <link href="https://fonts.googleapis.com/css?family=Work+Sans:400,700" rel="stylesheet">
 
 </head>
-<body>
+<body style="min-height:800px">
 
   <header class="header wrap wide" role="banner">
     <div class="grid">

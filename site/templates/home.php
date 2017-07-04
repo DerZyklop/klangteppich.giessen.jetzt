@@ -25,6 +25,7 @@
       <?= $page->text()->kirbytext() ?>
     </div>
 
+<!--
     <section class="projects-section">
 
       <div class="wrap wide">
@@ -37,11 +38,10 @@
         </div>
 
         <?php snippet('showcase') ?>
-        <!-- <p class="projects-section-more"><a href="<?= page('freunde')->url() ?>" class="btn">show all projects &hellip;</a></p> -->
       </div>
 
     </section>
-
+-->
   </main>
 
 <?php snippet('footer') ?>
