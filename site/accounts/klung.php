@@ -1,16 +1,16 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-username: michel
+username: klung
 password: >
-  $2a$10$CsnpQc2b0ZOjq8XFappTs.ZFtNwo2.xzywaKV1ARFn8LpCUPnrlTG
+  $2a$10$50QohhaBl64/9Gs0/DmtZenZRLzbwXvqsYbwxOsKQOT.xl.P00jkS
 email: ""
 language: de
-role: admin
+role: editor
 history:
-  - blog
+  - home
   - anfahrt
+  - blog
   - freunde/project-d
   - freunde/project-c
-  - freunde/project-e
 firstname: ""
 lastname: ""

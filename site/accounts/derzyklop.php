@@ -7,8 +7,8 @@ email: mail@der-zyklop.de
 language: de
 role: admin
 history:
-  - blog
   - anfahrt
+  - home
+  - blog
   - freunde/project-d
   - freunde/project-c
-  - freunde/project-e
