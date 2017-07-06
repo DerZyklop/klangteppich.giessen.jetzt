@@ -19,7 +19,7 @@
       // can change the display by clicking the 'edit' button
       // above the files list in the sidebar.
       foreach($page->images()->sortBy('sort', 'asc') as $image): ?>
-        <figure>
+        <figure style="margin-top:1.5em"> 
           <img src="<?= $image->url() ?>" alt="<?= $page->title()->html() ?>" />
         </figure>
       <?php endforeach ?>

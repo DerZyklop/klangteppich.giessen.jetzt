@@ -2,7 +2,7 @@
 
 <html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>">
 <head>
-
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
 

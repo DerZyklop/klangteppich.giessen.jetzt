@@ -25,7 +25,6 @@
       <?= $page->text()->kirbytext() ?>
     </div>
 
-<!--
     <section class="projects-section">
 
       <div class="wrap wide">
@@ -34,14 +33,14 @@
 
         <div class="intro text wrap">
           <?= page('freunde')->text()->kirbytext() ?>
-          <hr>
+          <!-- <hr> -->
         </div>
 
         <?php snippet('showcase') ?>
       </div>
 
     </section>
--->
+
   </main>
 
 <?php snippet('footer') ?>

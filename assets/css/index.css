@@ -138,7 +138,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.25em;
+  font-size: 1.6em;
   line-height: 1.2;
 }
 
@@ -244,6 +244,7 @@ figcaption {
 .intro {
   text-align: center;
   font-weight: 500;
+  font-weight: normal;
   font-size: 1.125rem;
   margin-bottom: 3rem;
 }
@@ -323,13 +324,13 @@ h1 + .intro {
   background: #e9e9e9;
   border-radius: 4px;
   box-shadow: 0 2px 0 #c9c7d4;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Raleway, Helvetica, Arial, sans-serif;
   position: relative;
   bottom: 2px;
 }
 
 .text blockquote {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Raleway, Helvetica, Arial, sans-serif;
   border-left: 2px solid #a8a5be;
   padding: .75rem;
   background: #fffffd;
@@ -600,7 +601,7 @@ html {
   padding: 0.4rem;
   color: #414f61;
   color: #fff;
-  font: normal 400 1.5em/1.5 "Vesper Libre", Georgia, serif;
+  font: normal 400 1.3em/1.5 "Vesper Libre", Georgia, serif;
   /* Always show the vertical scrollbar to prevent `jumps`
      of page content after navigating from a very short page
      that does not scroll to a long pager */
@@ -634,7 +635,7 @@ body {
   /*margin-bottom: 4.5rem;*/
   background-image: url('../images/noise.png');
   background-color: #2b3846;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Raleway, Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 
