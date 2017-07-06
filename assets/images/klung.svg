@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="161px" height="161px" viewBox="0 0 161 161" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" stroke="#FFFFFF" stroke-width="4.67992698">
+            <g id="Group" transform="translate(6.000000, 6.000000)">
+                <circle id="Oval" cx="75.5" cy="75.5" r="75.5"></circle>
+                <circle id="Oval" cx="75.5" cy="75.5" r="36.1086957"></circle>
+                <path d="M75.5,66.121118 L75.5,150.531056" id="Line" stroke-linecap="square"></path>
+                <path d="M57.6801242,66.121118 L94.2697862,66.121118" id="Line" stroke-linecap="square"></path>
+                <path d="M63.5838588,75.5 L88.3621708,75.5" id="Line" stroke-linecap="square"></path>
+                <path d="M66.1020464,132.71118 L85.8423278,132.71118" id="Line" stroke-linecap="square"></path>
+                <path d="M66.1020464,126.145963 L85.8423278,126.145963" id="Line" stroke-linecap="square"></path>
+                <path d="M69.8726708,84.878882 L82.089,84.878882" id="Line" stroke-linecap="square"></path>
+                <path d="M75.5,66.121118 L75.5,148.65528" id="Line" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

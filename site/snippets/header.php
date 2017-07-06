@@ -15,16 +15,12 @@
 </head>
 <body style="min-height:800px">
 
-  <header class="header wrap wide" role="banner">
+  <header class="header wrap wide" role="banner" style="margin-bottom: 1em">
     <div class="grid">
 
       <div class="branding column">
         <a href="<?= url() ?>" rel="home">
-
-        <?php if ($page->id() !== 'home'): ?>
-          <?= $site->title()->html() ?>
-        <?php else : ?>&nbsp;<?php endif; ?>
-
+          <img src="<?= url('assets/images/klung.svg') ?>" alt="Thumbnail for" class="showcase-image" style="max-width: 100%; width: 70px" />
         </a>
       </div>
 
