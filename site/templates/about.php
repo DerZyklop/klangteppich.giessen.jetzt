@@ -17,9 +17,9 @@
 
       <header>
         <!-- <h1><?= $page->title()->html() ?></h1> -->
-        <!-- <div class="intro text">
+        <div class="intro text">
           <?= $page->intro()->kirbytext() ?>
-        </div> -->
+        </div>
         <!-- <hr /> -->
       </header>
 
