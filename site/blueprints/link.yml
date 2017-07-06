@@ -1,0 +1,11 @@
+title: External Link
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  link:
+    label: Link URL
+    type: text
+    placeholder: http://
