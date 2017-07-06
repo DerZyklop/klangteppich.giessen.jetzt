@@ -1,4 +1,4 @@
-Title: Home
+Title: Startseite
 
 ----
 
@@ -8,11 +8,11 @@ Intro:
 
 Text: 
 
-Klangteppich is back – bring your whole Crew!
+<!-- Klangteppich is back – bring your whole Crew!
 
 Unser Programm startet diesmal ab 14:00 Uhr mit Juicy Drinks und Lemonade, Kaffee und Kuchen, Essen und (hipperweise) Foodbike mit Stullen. Es gibt offene Flächen und Folien für die Writers, Yoga, einen Spielplatz mit Wippen und Schaukeln, Basketballkorb (auf Wiese) und ne Dübelcorner für die Smokers da draußen.
 
 Musik: Postpunk, Postrock, Postkrautrock, (Post?) Singer/Songwriter, Female Rap, Fun, und auch House/Techno.
 
 Kommt am besten dem Bike (ca. 30 Minuten aus der Innenstadt) oder Minicar (ca. 10 Min).
-Ihr könnt hier Zelte mitbringen und aufschlagen, es gibt genug Platz.
+Ihr könnt hier Zelte mitbringen und aufschlagen, es gibt genug Platz. -->

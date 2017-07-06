@@ -10,7 +10,5 @@ history:
   - home
   - anfahrt
   - blog
-  - freunde/project-d
-  - freunde/project-c
 firstname: ""
 lastname: ""

@@ -11,4 +11,3 @@ history:
   - facebook
   - anfahrt
   - blog
-  - freunde/project-d

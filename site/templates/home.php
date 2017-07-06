@@ -28,7 +28,7 @@
     <section class="projects-section">
 
       <div class="wrap wide">
-        <h2>Freunde</h2>
+        <h2><?= page('freunde')->title()->html() ?></h2>
         <?php #snippet('showcase', ['limit' => 3]) ?>
 
         <div class="intro text wrap">

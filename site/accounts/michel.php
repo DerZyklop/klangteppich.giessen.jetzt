@@ -7,10 +7,8 @@ email: ""
 language: de
 role: admin
 history:
+  - freunde
   - blog
   - anfahrt
-  - freunde/project-d
-  - freunde/project-c
-  - freunde/project-e
 firstname: ""
 lastname: ""
