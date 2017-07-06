@@ -635,6 +635,7 @@ body {
   background-image: url('../images/noise.png');
   background-color: #2b3846;
   font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
 }
 
 /* ----- 3.1  Header  ------------------------------------------------------- */
