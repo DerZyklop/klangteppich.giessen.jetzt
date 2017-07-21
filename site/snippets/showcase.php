@@ -1,6 +1,6 @@
 <?php
 
-$projects = page('freunde')->children()->visible();
+$projects = page('lineup')->children()->visible();
 
 /*
 

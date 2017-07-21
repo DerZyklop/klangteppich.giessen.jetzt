@@ -7,8 +7,8 @@ email: ""
 language: de
 role: editor
 history:
+  - das-festival
   - home
   - anfahrt
-  - blog
 firstname: ""
 lastname: ""

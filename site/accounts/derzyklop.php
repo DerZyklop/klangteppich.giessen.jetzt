@@ -7,7 +7,8 @@ email: mail@der-zyklop.de
 language: de
 role: admin
 history:
-  - home
-  - facebook
   - anfahrt
-  - blog
+  - home
+  - lineup/dj-rist
+  - das-festival
+  - lineup/michum

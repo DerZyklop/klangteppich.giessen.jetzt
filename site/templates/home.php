@@ -28,15 +28,20 @@
     <section class="projects-section">
 
       <div class="wrap wide">
-        <h2><?= page('freunde')->title()->html() ?></h2>
+        <h2><?= page('lineup')->title()->html() ?></h2>
         <?php #snippet('showcase', ['limit' => 3]) ?>
 
         <div class="intro text wrap">
-          <?= page('freunde')->text()->kirbytext() ?>
+          <?= page('lineup')->text()->kirbytext() ?>
           <!-- <hr> -->
         </div>
 
         <?php snippet('showcase') ?>
+
+        <div class="intro text wrap">
+          <?= page('lineup')->outro()->kirbytext() ?>
+          <!-- <hr> -->
+        </div>
       </div>
 
     </section>

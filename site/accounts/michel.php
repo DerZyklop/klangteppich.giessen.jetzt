@@ -7,8 +7,10 @@ email: ""
 language: de
 role: admin
 history:
-  - freunde
-  - blog
-  - anfahrt
+  - home
+  - lineup/ingman
+  - lineup/erotic-knives
+  - lineup/peter-pilotem
+  - lineup/orkid-und-harold
 firstname: ""
 lastname: ""

@@ -2,17 +2,6 @@
 
   <main class="main" role="main">
 
-    <?php if($image = $page->images()->sortBy('sort', 'asc')->first()): $thumb = $image; ?>
-      <div style="max-width: 1224px; margin: auto; padding-bottom: 1.5rem;">
-        <div style="margin: 0 1.5em;">
-          <div style="padding: 0.2rem; background: #fff;">
-            <img src="<?= $thumb->url() ?>" alt="Thumbnail for <?= $page->title()->html() ?>" class="showcase-image" />
-          </div>
-        </div>
-      </div>
-    <?php endif ?>
-
-
     <div class="wrap">
 
       <header>
